@@ -1,0 +1,16 @@
+li a{
+  margin-left: 1.2rem !important ; 
+  font-family: 'Times New Roman', Times, serif !important; 
+  font-size: 1.3rem !important;
+}
+
+li a:hover{
+ color: orangered !important;
+}
+
+.navbar{
+ padding-top: 1.2rem !important;
+}
+.navbar-brand{
+  margin-left: 1.2rem !important;
+}

@@ -1,0 +1,39 @@
+.card{
+  width: 18rem !important;
+  border: none !important;
+  margin: 0.71rem !important;
+  margin-left: 0.5rem !important;
+}
+.head{
+  display: flex !important; 
+  justify-content: center !important;
+}
+
+.card:hover{
+  opacity: 0.5 !important;
+  cursor: pointer !important;
+}
+
+.card-img-top{
+  height: 11rem !important;
+  border-radius: 5px !important;
+}
+.card-body{
+ padding: 0 !important;
+}
+
+.card-body i{
+  color: green !important;
+}
+.card-text{
+  margin : 0 !important;
+}
+.container{
+  display: flex !important; 
+  flex-wrap: wrap !important;
+ justify-content: space-between !important;
+}
+.brief{
+  font-size: 0.9rem !important;
+  color: grey !important;
+}

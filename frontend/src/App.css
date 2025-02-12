@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto; 
+}
+
+#myVideo{
+  position: fixed !important;
+  margin: 0 !important;
+  padding: 0 !important; 
+  min-height: 100 !important;
+  min-width: 100% !important;
+}
